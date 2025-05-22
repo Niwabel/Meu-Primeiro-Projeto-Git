@@ -44,6 +44,9 @@ int menu(){
     
 }
 
+// linha nova que vai dar conflito
+// bb 
+
 int main(){
     float n1, n2;
     int op;
